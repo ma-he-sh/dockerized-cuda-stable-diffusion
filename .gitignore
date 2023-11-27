@@ -1,0 +1,5 @@
+models/*
+lora/*
+
+!models/.gitkeep
+!lora/.gitkeep
